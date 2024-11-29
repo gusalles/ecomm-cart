@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p001",
+    "name": "Camiseta Masculina",
+    "price": 39.90,
+    "quantity": 15
+  },
+  {
+    "id": "p002",
+    "name": "Tênis Esportivo",
+    "price": 149.99,
+    "quantity": 8
+  },
+  {
+    "id": "p003",
+    "name": "Smartphone 128GB",
+    "price": 1699.00,
+    "quantity": 5
+  },
+  {
+    "id": "p004",
+    "name": "Fone de Ouvido Bluetooth",
+    "price": 89.90,
+    "quantity": 2
+  },
+  {
+    "id": "p005",
+    "name": "Relógio de Pulso",
+    "price": 249.00,
+    "quantity": 12
+  },
+  {
+    "id": "p006",
+    "name": "Cafeteira Elétrica",
+    "price": 119.90,
+    "quantity": 75
+  },
+  {
+    "id": "p007",
+    "name": "Monitor Full HD 24\"",
+    "price": 499.00,
+    "quantity": 60
+  },
+  {
+    "id": "p008",
+    "name": "Caderno Universitário 10 matérias",
+    "price": 19.90,
+    "quantity": 30
+  },
+  {
+    "id": "p009",
+    "name": "Mouse Óptico Gamer",
+    "price": 79.90,
+    "quantity": 25
+  },
+  {
+    "id": "p010",
+    "name": "Câmera de Segurança Wi-Fi",
+    "price": 229.00,
+    "quantity": 11
+  },
+  {
+    "id": "p011",
+    "name": "Microondas 20L",
+    "price": 369.90,
+    "quantity": 5
+  },
+  {
+    "id": "p012",
+    "name": "Luminária LED",
+    "price": 49.90,
+    "quantity": 8
+  },
+  {
+    "id": "p013",
+    "name": "Carregador Solar Portátil",
+    "price": 119.00,
+    "quantity": 90
+  },
+  {
+    "id": "p014",
+    "name": "Bolsa Feminina de Couro",
+    "price": 199.90,
+    "quantity": 65
+  },
+  {
+    "id": "p015",
+    "name": "Mochila Executiva",
+    "price": 149.90,
+    "quantity": 140
+  },
+  {
+    "id": "p016",
+    "name": "Fritadeira Sem Óleo",
+    "price": 349.00,
+    "quantity": 35
+  },
+  {
+    "id": "p017",
+    "name": "Lava e Seca 12kg",
+    "price": 2999.00,
+    "quantity": 15
+  },
+  {
+    "id": "p018",
+    "name": "Batedeira Planetária",
+    "price": 399.00,
+    "quantity": 50
+  },
+  {
+    "id": "p019",
+    "name": "Tênis Casual Feminino",
+    "price": 129.90,
+    "quantity": 110
+  },
+  {
+    "id": "p020",
+    "name": "Aspirador de Pó Vertical",
+    "price": 199.90,
+    "quantity": 40
+  }
+]
